@@ -25,7 +25,11 @@ This repository contains key networking projects completed. These projects demon
  
 ### 4. DHCP Server Configuration
 * **Goal:** Automating IP address assignment for network devices.
-* **Key Tasks:** Configuring the Router as a DHCP Server and verifying dynamic IP assignment.
+* **Key Tasks:**
+    * Configuring the Router as a DHCP Server.
+    * Defining IP pools (`network`, `default-router`, `dns-server`).
+    * Excluding specific IP addresses for gateway and static use.
+    * Verifying dynamic IP assignment on end-user PCs.
 
 ## Technical Skills Demonstrated
 * **Cisco IOS CLI:** Proficient in command-line interface configurations.
