@@ -22,12 +22,17 @@ This repository contains key networking projects completed. These projects demon
     * Setting up **802.1Q (Dot1Q)** encapsulation.
     * Configuring Trunk ports on the Switch to allow multi-VLAN traffic.
     * Successful cross-VLAN communication testing.
+ 
+### 4. DHCP Server Configuration
+* **Goal:** Automating IP address assignment for network devices.
+* **Key Tasks:** Configuring the Router as a DHCP Server and verifying dynamic IP assignment.
 
 ## Technical Skills Demonstrated
 * **Cisco IOS CLI:** Proficient in command-line interface configurations.
 * **Switching:** VLANs, Trunking, and Access port configuration.
-* **Routing:** Static routing and Inter-VLAN routing principles.
-* **Network Security:** Basic device hardening and access security.
+* **Routing:** Inter-VLAN routing (Router-on-a-stick) and Basic Gateway configuration.
+* **Network Services:** Configuring DHCP Server pools and IP exclusions.
+* **Network Security:** Basic device hardening, passwords, and access security.
 
 ---
 **Prepared by:** [ANUSHKA WEERAKKODI]
