@@ -31,6 +31,9 @@ This repository contains key networking projects completed. These projects demon
     * Excluding specific IP addresses for gateway and static use.
     * Verifying dynamic IP assignment on end-user PCs.
 
+### 5: Secure Wireless LAN (WLAN)
+*  - Configuring a Wireless Router with WPA2-PSK security and managing SSID broadcasting to secure endpoint connections (Laptops/Smartphones).
+
 ## Technical Skills Demonstrated
 * **Cisco IOS CLI:** Proficient in command-line interface configurations.
 * **Switching:** VLANs, Trunking, and Access port configuration.
