@@ -33,6 +33,11 @@ This repository contains key networking projects completed. These projects demon
 
 ### 5: Secure Wireless LAN (WLAN)
 *  - Configuring a Wireless Router with WPA2-PSK security and managing SSID broadcasting to secure endpoint connections (Laptops/Smartphones).
+ 
+### 6: Static Routing Implementation
+* **Goal:** Configuring manual routes to enable communication between two different geographical networks.
+* **Key Tasks:**
+Setting up Point-to-Point (WAN) links between routers and configuring Next-Hop Static Routes to ensure bi-directional data flow
 
 ## Technical Skills Demonstrated
 * **Cisco IOS CLI:** Proficient in command-line interface configurations.
